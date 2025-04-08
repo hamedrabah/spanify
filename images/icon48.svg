@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="60" fill="#4285F4"/>
+  
+  <!-- Letter S (Spanish) -->
+  <path d="M44 64C44 58 48 54 54 54C60 54 64 58 64 62C64 66 60 68 56 70C52 72 48 76 48 80C48 86 52 90 58 90C64 90 68 86 68 82" 
+        stroke="white" 
+        stroke-width="8" 
+        stroke-linecap="round" 
+        fill="none"/>
+  
+  <!-- Language indicator -->
+  <path d="M80 40L88 40L84 56L80 40Z" fill="white"/>
+  <path d="M84 56L92 56L88 72L84 56Z" fill="white"/>
+</svg> 
