@@ -1,0 +1,24 @@
+{
+  "name": "spanify",
+  "version": "1.0.0",
+  "description": "A Chrome extension that translates web pages into Spanish with three difficulty levels: beginner (1A), intermediate (1B), and advanced (2A). The extension provides a clean reader mode with text-to-speech functionality for an enhanced learning experience.",
+  "main": "background.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamedrabah/spanify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamedrabah/spanify/issues"
+  },
+  "homepage": "https://github.com/hamedrabah/spanify#readme"
+}
